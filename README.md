@@ -75,6 +75,8 @@ cargo build --release
 ├── routefinder-api.exe
 └── Navdata/
     └── nd.db3
+    └── cycle.json
+    └── cycle_info.txt
 ```
 
 ### 运行
